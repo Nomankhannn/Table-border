@@ -1,0 +1,24 @@
+table{
+    border: 1px solid black;
+    width: 800px;
+}
+th, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+th{
+    background-color: rgb(158, 155, 155);
+    font-weight: 200px;
+}
+.three{
+    background-color: white;
+}
+.three:hover{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+.four{
+    background-color: rgb(173, 221, 240);
+}
